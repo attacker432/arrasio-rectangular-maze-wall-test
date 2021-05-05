@@ -5,7 +5,7 @@
   "main": "server/server.js",
   "scripts": {
     "start": "gulp build",
-    "start": "gulp run"
+    "run": "gulp run"
   },
   "author": "Anthony Hengst",
   "license": "GNU GPL3",
