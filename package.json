@@ -4,8 +4,7 @@
   "description": "A fanmade sequel to diep.io",
   "main": "server/server.js",
   "scripts": {
-    "start": "gulp build",
-    "start": "gulp"
+    "start": "gulp build"
   },
   "author": "Anthony Hengst",
   "license": "GNU GPL3",
