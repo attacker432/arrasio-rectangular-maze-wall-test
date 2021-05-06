@@ -4,7 +4,9 @@
   "description": "A fanmade sequel to diep.io",
   "main": "server/server.js",
   "scripts": {
-    "start": "app.json",
+    "start": "gulp build",
+    "run": "gulp run",
+    "watch": "gulp watch",
     "test": "gulp test"
   },
   "author": "Anthony Hengst",
