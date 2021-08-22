@@ -33,3 +33,14 @@ https://i.imgur.com/BFhpamn.png
 https://i.imgur.com/2pKRfv9.png
 
 https://i.imgur.com/MNAqJZI.png
+
+
+game link:
+https://arras-tx.andrewspec.repl.co
+
+backup/developer server link:
+https://arras-tx.glitch.me/
+
+discord server invite:
+https://discord.gg/Gub8GevWbQ
+
